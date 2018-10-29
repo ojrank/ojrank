@@ -1,0 +1,9 @@
+Dataset,NumSamples,NumAnoms,WindowSize,Budget
+optdigits,592,25.0,256,75
+statlog,1665,50.0,256,125
+segment,1090,50.0,256,125
+vehicle,495,30.0,256,75
+svmguide,544,50.0,256,125
+vowels,2821,50.0,256,125
+sensor,16257,150.0,256,325
+letters,2467,50.0,256,126
